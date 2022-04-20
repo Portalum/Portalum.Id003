@@ -6,3 +6,8 @@ A small test tool that allows it to communicate with a JCM bill validator. The c
 ## ControlPanel
 
 ![Portalum.Id003.ControlPanel](/doc/ControlPanel.png)
+
+
+## Tested Hardware
+
+- JCM Global - EBA-40
