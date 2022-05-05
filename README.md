@@ -10,7 +10,9 @@ A small test tool that allows it to communicate with a JCM bill validator. The c
 
 ## Tested Hardware
 
-- JCM Global - EBA-40
+- JCM Global - EBA-40<br>
+  Configuration:<br>
+  Used the RS232C Connector for communication, set Switch No. 4 to `ON` on `DIP Switch Block 2`, power over XG4C-1634 connector
 
 ## Other projects on this topic
 
