@@ -17,3 +17,4 @@ A small test tool that allows it to communicate with a JCM bill validator. The c
 ## Other projects on this topic
 
 - [PyramidTechnologies - PTI.Rs232Validator](https://github.com/PyramidTechnologies/PTI.Rs232Validator)
+- [hackwin - JCMBillAcceptorID003](https://github.com/hackwin/JCMBillAcceptorID003)
